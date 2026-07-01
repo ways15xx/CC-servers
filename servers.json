@@ -8,36 +8,36 @@
     "name": "NA | PUG | 64 Tick",
     "ipPort": "na.classiccounter.cc:27015",
     "maxPlayers": 10,
-    "flagUrl": "https://raw.githubusercontent.com//ways15xx/CC-servers/refs/heads/main/NA.png"
+    "flagUrl": "https://raw.githubusercontent.com//ways15xx/CC-servers/refs/heads/main/flags/NA.png"
   },
   {
     "name": "NA | PUG-2 | 64 Tick",
     "ipPort": "na.classiccounter.cc:27016",
     "maxPlayers": 10,
-    "flagUrl": "https://raw.githubusercontent.com//ways15xxy/CC-servers/refs/heads/main/NA.png"
+    "flagUrl": "https://raw.githubusercontent.com//ways15xxy/CC-servers/refs/heads/main/flags/NA.png"
   },
   {
     "name": "EU | PUG | 64 Tick",
     "ipPort": "eu.classiccounter.cc:27016",
     "maxPlayers": 10,
-    "flagUrl": "https://raw.githubusercontent.com//ways15xxy/CC-servers/refs/heads/main/EU.png"
+    "flagUrl": "https://raw.githubusercontent.com//ways15xxy/CC-servers/refs/heads/main/flags/EU.png"
   },
   {
     "name": "EU | PUG | 128 Tick",
     "ipPort": "eu.classiccounter.cc:27015",
     "maxPlayers": 10,
-    "flagUrl": "https://raw.githubusercontent.com//ways15xxy/CC-servers/refs/heads/main/EU.png"
+    "flagUrl": "https://raw.githubusercontent.com//ways15xxy/CC-servers/refs/heads/main/flags/EU.png"
   },
   {
     "name": "EU | PUG-2 | 128 Tick",
     "ipPort": "eu.classiccounter.cc:27022",
     "maxPlayers": 10,
-    "flagUrl": "https://raw.githubusercontent.com//ways15xx/CC-servers/refs/heads/main/EU.png"
+    "flagUrl": "https://raw.githubusercontent.com//ways15xx/CC-servers/refs/heads/main/flags/EU.png"
   },
   {
     "name": "RU | PUG | 128 Tick",
     "ipPort": "ru.classiccounter.cc:27015",
     "maxPlayers": 10,
-    "flagUrl": "https://raw.githubusercontent.com/ways15xx/CC-servers/refs/heads/main/RU.png"
+    "flagUrl": "https://raw.githubusercontent.com/ways15xx/CC-servers/refs/heads/main/flags/RU.png"
   }
 ]
